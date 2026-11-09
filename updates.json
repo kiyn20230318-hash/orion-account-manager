@@ -1,0 +1,13 @@
+{
+    "addons":  {
+                   "orion-account-manager@local.invalid":  {
+                                                               "updates":  [
+                                                                               {
+                                                                                   "update_hash":  "sha256:aacc3205f2ede7f3115b8f93c6f7b63e4319008c9c7a89d3063a4ee0950c6ab2",
+                                                                                   "version":  "0.3.18",
+                                                                                   "update_link":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.18/orion-account-manager-v0.3.18.xpi"
+                                                                               }
+                                                                           ]
+                                                           }
+               }
+}

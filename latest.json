@@ -1,0 +1,20 @@
+{
+    "app":  "orion-account-manager",
+    "version":  "0.3.18",
+    "publishedAt":  "2026-11-09T14:21:03Z",
+    "notes":  [
+                  "對應覆寫後仍有重複衝突時，確認清空再重寫一次。",
+                  "只有完整內容核對通過才開啟，持續衝突或逾時仍停止。",
+                  "簡短錯誤以內容核對筆數為準，保留網頁內快速切換與原始帳號資料。"
+              ],
+    "downloads":  {
+                      "xpi":  {
+                                  "sha256":  "aacc3205f2ede7f3115b8f93c6f7b63e4319008c9c7a89d3063a4ee0950c6ab2",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.18/orion-account-manager-v0.3.18.xpi"
+                              },
+                      "zip":  {
+                                  "sha256":  "aacc3205f2ede7f3115b8f93c6f7b63e4319008c9c7a89d3063a4ee0950c6ab2",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.18/orion-account-manager-v0.3.18.zip"
+                              }
+                  }
+}
