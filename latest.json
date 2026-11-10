@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.18",
-    "publishedAt":  "2026-11-09T14:21:03Z",
+    "version":  "0.3.19",
+    "publishedAt":  "2026-11-10T08:30:55Z",
     "notes":  [
-                  "對應覆寫後仍有重複衝突時，確認清空再重寫一次。",
-                  "只有完整內容核對通過才開啟，持續衝突或逾時仍停止。",
-                  "簡短錯誤以內容核對筆數為準，保留網頁內快速切換與原始帳號資料。"
+                  "到期清除後仍有殘留時，再刪除最新讀到的項目並核對。",
+                  "相容套用等待讀回穩定，連續兩次完整相符才開啟網站。",
+                  "原始帳號資料保留；殘留分類與等待核對紀錄集中在進階工具。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "aacc3205f2ede7f3115b8f93c6f7b63e4319008c9c7a89d3063a4ee0950c6ab2",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.18/orion-account-manager-v0.3.18.xpi"
+                                  "sha256":  "a56c8bf34c036339b3c5947079c005178f4fe2fea921df099db84504b3ffdcc1",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.19/orion-account-manager-v0.3.19.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "aacc3205f2ede7f3115b8f93c6f7b63e4319008c9c7a89d3063a4ee0950c6ab2",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.18/orion-account-manager-v0.3.18.zip"
+                                  "sha256":  "a56c8bf34c036339b3c5947079c005178f4fe2fea921df099db84504b3ffdcc1",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.19/orion-account-manager-v0.3.19.zip"
                               }
                   }
 }
