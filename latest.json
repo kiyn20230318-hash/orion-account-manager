@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.20",
-    "publishedAt":  "2026-11-10T09:00:42Z",
+    "version":  "0.3.21",
+    "publishedAt":  "2026-11-10T09:19:41Z",
     "notes":  [
-                  "新增本機錯誤紀錄下載與複製，從右上角小點進入。",
-                  "保留最多 20 次切換步驟、API 耗時與失敗數量；不含 Cookie 內容、帳號名稱或網址。",
-                  "下載不修改網站 Cookie，也不自動上傳；手機登入結果仍需實測。"
+                  "修正上次切換待復原時，新增、匯入、編輯與刪除被一起鎖定的問題。",
+                  "新增勾選帳號批量刪除、全選搜尋結果與確認清單；只刪帳號庫資料，保留網站 Cookie 與復原備份。",
+                  "正在執行或逾時未結束的操作仍暫停資料變更；本版不代表手機登入問題已解決。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "adae51f5ce86fd5442958d6753ac754b4ebc3400f893c95ad0bd72ab20324af2",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.20/orion-account-manager-v0.3.20.xpi"
+                                  "sha256":  "dc070e6d13fff9bfb13c1fdc83a0c4c6f4517ba5cfc3132d149cf0bd606f19de",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.21/orion-account-manager-v0.3.21.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "adae51f5ce86fd5442958d6753ac754b4ebc3400f893c95ad0bd72ab20324af2",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.20/orion-account-manager-v0.3.20.zip"
+                                  "sha256":  "dc070e6d13fff9bfb13c1fdc83a0c4c6f4517ba5cfc3132d149cf0bd606f19de",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.21/orion-account-manager-v0.3.21.zip"
                               }
                   }
 }
