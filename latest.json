@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.22",
-    "publishedAt":  "2026-11-10T09:39:14Z",
+    "version":  "0.3.23",
+    "publishedAt":  "2026-11-10T10:41:18Z",
     "notes":  [
-                  "補強網頁內快速切換入口：連線重試、頁面恢復、同站 www 轉址及既有分頁恢復。",
-                  "匯入可勾選多個帳號，一次套用重複 Cookie 處理方式；各帳號分開處理，修正成功後勾選供匯入。",
-                  "補齊原生 hostOnly 回報不準時漏掉的帶點網域清除格式，仍須完整核對 Cookie 內容；手機實際效果待確認。"
+                  "切換前先關閉一般網頁並呼叫瀏覽器清除一般網站資料，再套用帳號；其他一般網站也會登出。",
+                  "匯入帳號庫保留；清除後核對 Cookie 連續兩次為空才繼續。清除無效、拒絕或逾時會停止並記錄。",
+                  "管理頁與網頁內快速切換皆使用此流程；新增 browsingData 權限。手機 Orion 實際效果仍待確認。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "19da879c8368b82046e1c1dcd566768a60cd2f24a80a7f81b4c304eadb52bf6f",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.22/orion-account-manager-v0.3.22.xpi"
+                                  "sha256":  "200c922e5b542a1a116dc25eb9d7c36ec283cabb08ffc9f9ff40c05da79f1c0a",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.23/orion-account-manager-v0.3.23.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "19da879c8368b82046e1c1dcd566768a60cd2f24a80a7f81b4c304eadb52bf6f",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.22/orion-account-manager-v0.3.22.zip"
+                                  "sha256":  "200c922e5b542a1a116dc25eb9d7c36ec283cabb08ffc9f9ff40c05da79f1c0a",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.23/orion-account-manager-v0.3.23.zip"
                               }
                   }
 }
