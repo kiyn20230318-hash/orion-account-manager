@@ -3,9 +3,9 @@
                    "orion-account-manager@local.invalid":  {
                                                                "updates":  [
                                                                                {
-                                                                                   "update_hash":  "sha256:0fe24bd17a806c1377e213bfac9557c7a86cea2a1cbfeb9d95560c51d84b3c33",
-                                                                                   "version":  "0.3.26",
-                                                                                   "update_link":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.26/orion-account-manager-v0.3.26.xpi"
+                                                                                   "update_hash":  "sha256:915845c08d8e6c78640f7bb0a61662a17812b85061474e6c9b776e17eb5644b8",
+                                                                                   "version":  "0.3.27",
+                                                                                   "update_link":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.27/orion-account-manager-v0.3.27.xpi"
                                                                                }
                                                                            ]
                                                            }
