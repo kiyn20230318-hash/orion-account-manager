@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.26",
-    "publishedAt":  "2026-11-11T17:23:23Z",
+    "version":  "0.3.27",
+    "publishedAt":  "2026-11-11T17:44:15Z",
     "notes":  [
-                  "新增帳號與批量匯入預設開啟 https://www.foodpanda.com.tw/vouchers。",
+                  "取號顯示與複製的號碼前加上國碼（預設 +852，可在 API 設定修改）；取碼與拉黑仍用平台原始號碼。",
                   "網站內「⇄ 切換」與「取號｜取碼｜IP」工具列都可拖曳並各自記住位置。",
                   "取碼 40 秒未收到自動拉黑並換一個新號碼；管理器可設定 API Key（預設香港 1115）及查看 IP。iPhone Orion 實機仍待確認。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "0fe24bd17a806c1377e213bfac9557c7a86cea2a1cbfeb9d95560c51d84b3c33",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.26/orion-account-manager-v0.3.26.xpi"
+                                  "sha256":  "915845c08d8e6c78640f7bb0a61662a17812b85061474e6c9b776e17eb5644b8",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.27/orion-account-manager-v0.3.27.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "0fe24bd17a806c1377e213bfac9557c7a86cea2a1cbfeb9d95560c51d84b3c33",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.26/orion-account-manager-v0.3.26.zip"
+                                  "sha256":  "915845c08d8e6c78640f7bb0a61662a17812b85061474e6c9b776e17eb5644b8",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.27/orion-account-manager-v0.3.27.zip"
                               }
                   }
 }
