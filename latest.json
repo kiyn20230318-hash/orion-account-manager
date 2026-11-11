@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.28",
-    "publishedAt":  "2026-11-11T17:57:49Z",
+    "version":  "0.3.29",
+    "publishedAt":  "2026-11-11T19:16:00Z",
     "notes":  [
-                  "號碼工具列可點六點收合／展開，收合時仍可拖曳並記住狀態。",
-                  "先點網站欄位再按「填入」，直接填入 +852 號碼或驗證碼；點號碼或驗證碼即可複製。",
-                  "取碼按鈕顯示剩餘秒數，⇄ 按鈕顯示目前帳號名稱；iPhone Orion 實機仍待確認。"
+                  "介面大更新：底部固定取號／取碼／IP 工具列、精簡帳號列（多約三倍）、浮出訊息、深色模式。",
+                  "網站內切換選單：手機不自動跳鍵盤、目前帳號排第一、選單蓋在號碼工具列上方。",
+                  "原有功能與切換流程測試全部通過；iPhone Orion 實機仍待確認。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "301810b69bed301a5cedce0d99433fed2fb57dfb7026ef4e69097dc7a5fa5069",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.28/orion-account-manager-v0.3.28.xpi"
+                                  "sha256":  "70df4c8ac0589b7fa073f2352ff54d1dae3a18e2e74f4752cde18a6125ed9419",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.29/orion-account-manager-v0.3.29.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "301810b69bed301a5cedce0d99433fed2fb57dfb7026ef4e69097dc7a5fa5069",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.28/orion-account-manager-v0.3.28.zip"
+                                  "sha256":  "70df4c8ac0589b7fa073f2352ff54d1dae3a18e2e74f4752cde18a6125ed9419",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.29/orion-account-manager-v0.3.29.zip"
                               }
                   }
 }
