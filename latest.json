@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.23",
-    "publishedAt":  "2026-11-10T10:41:18Z",
+    "version":  "0.3.24",
+    "publishedAt":  "2026-11-11T06:35:52Z",
     "notes":  [
-                  "切換前先關閉一般網頁並呼叫瀏覽器清除一般網站資料，再套用帳號；其他一般網站也會登出。",
-                  "匯入帳號庫保留；清除後核對 Cookie 連續兩次為空才繼續。清除無效、拒絕或逾時會停止並記錄。",
-                  "管理頁與網頁內快速切換皆使用此流程；新增 browsingData 權限。手機 Orion 實際效果仍待確認。"
+                  "批量刪除移至「我的帳號」下方，與批量匯入、新增並排顯示。",
+                  "支援勾選多個帳號、全選搜尋結果及取消選取；刪除前顯示確認。",
+                  "手機尺寸介面與刪除流程已通過桌面測試，iPhone Orion 顯示仍待實機確認。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "200c922e5b542a1a116dc25eb9d7c36ec283cabb08ffc9f9ff40c05da79f1c0a",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.23/orion-account-manager-v0.3.23.xpi"
+                                  "sha256":  "0a6b529e63d4fb8b86889fe666dda99d84668c172327b5274613930cdd0fec4e",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.24/orion-account-manager-v0.3.24.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "200c922e5b542a1a116dc25eb9d7c36ec283cabb08ffc9f9ff40c05da79f1c0a",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.23/orion-account-manager-v0.3.23.zip"
+                                  "sha256":  "0a6b529e63d4fb8b86889fe666dda99d84668c172327b5274613930cdd0fec4e",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.24/orion-account-manager-v0.3.24.zip"
                               }
                   }
 }
