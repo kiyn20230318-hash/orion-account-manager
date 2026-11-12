@@ -1,20 +1,20 @@
 {
     "app":  "orion-account-manager",
-    "version":  "0.3.30",
-    "publishedAt":  "2026-11-12T07:03:51Z",
+    "version":  "0.3.31",
+    "publishedAt":  "2026-11-12T07:39:11Z",
     "notes":  [
-                  "網站內切換選單：每個帳號旁新增 ✎，可直接改名（只改名稱，Cookie 不變；名稱重複會擋下）。",
-                  "批量匯入新增「從比特瀏覽器讀取」：輸入窗口名稱或瀏覽勾選，直接讀取該窗口 Cookie，經預覽核對後匯入；一窗口一帳號、不合併。",
-                  "手機需填電腦區網 IP 且在同一個 Wi‑Fi；iPhone Orion 實機連線仍待確認。"
+                  "從比特瀏覽器讀取：支援比特瀏覽器「Local API Token」鑑權，填入 Token 後以 X-API-KEY 送出；連線成功後保存，只顯示末四碼，可清除。",
+                  "沒填或填錯 Token 時顯示明確原因；未開鑑權時照常使用，不必填。",
+                  "網站內改名與比特瀏覽器讀取（v0.3.30）照常；iPhone Orion 實機連線仍待確認。"
               ],
     "downloads":  {
                       "xpi":  {
-                                  "sha256":  "bda4d15e0fd6dbdd016e441e70684738346a03bef10e1aab4919c4bf088b72f8",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.30/orion-account-manager-v0.3.30.xpi"
+                                  "sha256":  "81937d9c4c7e64a3f3433a4201d2ab6cd856d76486b5e12a23049f14064dab02",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.31/orion-account-manager-v0.3.31.xpi"
                               },
                       "zip":  {
-                                  "sha256":  "bda4d15e0fd6dbdd016e441e70684738346a03bef10e1aab4919c4bf088b72f8",
-                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.30/orion-account-manager-v0.3.30.zip"
+                                  "sha256":  "81937d9c4c7e64a3f3433a4201d2ab6cd856d76486b5e12a23049f14064dab02",
+                                  "url":  "https://github.com/kiyn20230318-hash/orion-account-manager/releases/download/v0.3.31/orion-account-manager-v0.3.31.zip"
                               }
                   }
 }
